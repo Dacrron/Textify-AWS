@@ -35,9 +35,9 @@ This project demonstrates the use of Python Tkinter for a graphical user interfa
 4. Edit your user name inside the code, upload image and there you have it.
 ## Screenshots
 
-![App Screenshot](https://postimg.cc/T5X0KZ2p)
-![App Screenshot](https://postimg.cc/KkZTMxSk)
-![App Screenshot](https://postimg.cc/2qHk0DLB)
+![Textify Gui](https://github.com/Dacrron/Textify-AWS/blob/main/Screenshots%20For%20Readme/1.jpg)
+![Code With Extracted Text](https://github.com/Dacrron/Textify-AWS/blob/main/Screenshots%20For%20Readme/2.jpg)
+![Mp3 File](https://github.com/Dacrron/Textify-AWS/blob/main/Screenshots%20For%20Readme/3.jpg)
 
 
 ## Acknowledgements
