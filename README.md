@@ -18,6 +18,13 @@ This project demonstrates the use of Python Tkinter for a graphical user interfa
 
 
 
+## Flowchart and working
+
+Here is the simple working flowchart of the project
+
+![Flowchart](https://github.com/Dacrron/Textify-AWS/blob/main/Screenshots%20For%20Readme/Flowchart.png)
+
+Thank you :)
 ## Dependencies
 
 - Boto3
@@ -38,6 +45,7 @@ This project demonstrates the use of Python Tkinter for a graphical user interfa
 ![Textify Gui](https://github.com/Dacrron/Textify-AWS/blob/main/Screenshots%20For%20Readme/1.jpg)
 ![Code With Extracted Text](https://github.com/Dacrron/Textify-AWS/blob/main/Screenshots%20For%20Readme/2.jpg)
 ![Mp3 File](https://github.com/Dacrron/Textify-AWS/blob/main/Screenshots%20For%20Readme/3.jpg)
+
 
 
 ## Acknowledgements
